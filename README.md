@@ -32,3 +32,4 @@
 
 ## 重点阅读
 
+- [CrashCourse/Computer Science](https://www.bilibili.com/video/av21376839)
