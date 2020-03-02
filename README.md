@@ -11,14 +11,19 @@
 ### 软件开发
 
 #### 通识部分
-- 如何写文档？
-- 如何做单元测试?
+
 - [什么是单点登录?](https://github.com/nonocast/me/issues/2)
 - [认证和授权有什么区别?](https://github.com/nonocast/me/issues/3)
+- 如何写文档？
 - 怎么记录日志?
 - 怎么做好版本管理?
+  - [git内部是如何工作的?](https://github.com/nonocast/me/issues/7)
+  - [通过gitstats查看项目统计](https://github.com/nonocast/me/issues/6)
+- 如何做单元测试?
 
 #### Node
+
+- [如何表达时间? -- Unix Timestamp](https://github.com/nonocast/me/issues/8)
 
 #### React
 
