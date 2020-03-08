@@ -15,7 +15,7 @@
 - [什么是单点登录?](https://github.com/nonocast/me/issues/2)
 - [认证和授权有什么区别?](https://github.com/nonocast/me/issues/3)
 - [如何做项目管理?](https://github.com/nonocast/me/issues/13)
-- [如何使用配置](https://github.com/nonocast/me/issues/14)
+- [如何使用配置?](https://github.com/nonocast/me/issues/14)
 - [如何写文档？](https://github.com/nonocast/me/issues/9)
 - [怎么记录日志? -- Node Winston](https://github.com/nonocast/me/issues/10)
 - 怎么做好版本管理?
