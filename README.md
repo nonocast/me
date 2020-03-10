@@ -31,6 +31,9 @@
 
 ### 硬件开发
 
+- [什么是计算机?](https://github.com/nonocast/me/issues/16)
+- [什么是单片机?](https://github.com/nonocast/me/issues/17)
+
 ### 人工智能
 
 ### 数学
