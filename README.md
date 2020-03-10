@@ -38,6 +38,9 @@
 
 ### 数学
 
+- [数学基础认识](https://github.com/nonocast/me/issues/18)
+- [线性代数入门](https://github.com/nonocast/me/issues/19)
+
 ### 其他
 
 
