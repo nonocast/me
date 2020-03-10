@@ -23,6 +23,8 @@
   - [通过gitstats查看项目统计](https://github.com/nonocast/me/issues/6)
 - 如何做单元测试?
 
+- [C语言基础](https://github.com/nonocast/me/issues/20)
+
 #### Node
 
 - [如何表达时间? -- Unix Timestamp](https://github.com/nonocast/me/issues/8)
