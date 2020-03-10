@@ -31,6 +31,8 @@
 
 #### React
 
+- [React 运行机制简单分析](https://github.com/nonocast/me/issues/21)
+
 ### 硬件开发
 
 - [什么是计算机?](https://github.com/nonocast/me/issues/16)
