@@ -23,7 +23,7 @@
   - [通过gitstats查看项目统计](https://github.com/nonocast/me/issues/6)
 - 如何做测试?
   - [Guru99: Software Testing Tutorials for Beginners 笔记](https://github.com/nonocast/me/issues/24)
-
+  - [如何开始做软件测试?](https://github.com/nonocast/me/issues/26)
 - [C语言基础](https://github.com/nonocast/me/issues/20)
 
 #### Node
