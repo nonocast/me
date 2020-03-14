@@ -21,7 +21,8 @@
 - 怎么做好版本管理?
   - [git内部是如何工作的?](https://github.com/nonocast/me/issues/7)
   - [通过gitstats查看项目统计](https://github.com/nonocast/me/issues/6)
-- 如何做单元测试?
+- 如何做测试?
+  - [Guru99: Software Testing Tutorials for Beginners 笔记](https://github.com/nonocast/me/issues/24)
 
 - [C语言基础](https://github.com/nonocast/me/issues/20)
 
