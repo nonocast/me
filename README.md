@@ -37,6 +37,7 @@
 
 ### 硬件开发
 
+- [Crash Course: Computer Science 笔记](https://github.com/nonocast/me/issues/25)
 - [什么是计算机?](https://github.com/nonocast/me/issues/16)
 - [什么是单片机?](https://github.com/nonocast/me/issues/17)
 
@@ -49,7 +50,3 @@
 
 ### 其他
 
-
-## 重点阅读
-
-- [CrashCourse/Computer Science](https://www.bilibili.com/video/av21376839)
