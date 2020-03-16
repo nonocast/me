@@ -19,12 +19,13 @@
 - [如何写文档？](https://github.com/nonocast/me/issues/9)
 - [怎么记录日志? -- Node Winston](https://github.com/nonocast/me/issues/10)
 - 怎么做好版本管理?
-  - [git内部是如何工作的?](https://github.com/nonocast/me/issues/7)
-  - [通过gitstats查看项目统计](https://github.com/nonocast/me/issues/6)
+  - [git 内部是如何工作的?](https://github.com/nonocast/me/issues/7)
+  - [通过 gitstats 查看项目统计](https://github.com/nonocast/me/issues/6)
 - 如何做测试?
   - [Guru99: Software Testing Tutorials for Beginners 笔记](https://github.com/nonocast/me/issues/24)
+  - [Google 软件测试之道 笔记](https://github.com/nonocast/me/issues/28)
   - [如何开始做软件测试?](https://github.com/nonocast/me/issues/26)
-- [C语言基础](https://github.com/nonocast/me/issues/20)
+- [C 语言基础](https://github.com/nonocast/me/issues/20)
 
 #### Node
 
@@ -50,4 +51,3 @@
 - [线性代数入门](https://github.com/nonocast/me/issues/19)
 
 ### 其他
-
