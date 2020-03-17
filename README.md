@@ -36,6 +36,7 @@
 #### React
 
 - [React 运行机制简单分析](https://github.com/nonocast/me/issues/21)
+- [关于React App如何部署在子目录下的说明](https://github.com/nonocast/me/issues/29)
 
 ### 硬件开发
 
@@ -51,3 +52,5 @@
 - [线性代数入门](https://github.com/nonocast/me/issues/19)
 
 ### 其他
+
+- [rmtp and hls in nginx](https://github.com/nonocast/me/issues/30)
