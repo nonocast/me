@@ -27,6 +27,7 @@
   - [Google 软件测试之道 笔记](https://github.com/nonocast/me/issues/28)
   - [如何开始做软件测试?](https://github.com/nonocast/me/issues/26)
 - [如何做单元测试?](https://github.com/nonocast/jiker-tdd-campus)
+- [串口编程 - 通过nodejs, java, C访问单片机](https://github.com/nonocast/mcs-serial-port)
 - [C 基础](https://github.com/nonocast/me/issues/20)
   - [nonocast/learn-c](https://github.com/nonocast/learn-c)
 - [Java 基础](https://github.com/nonocast/hello-java)
