@@ -27,7 +27,11 @@
   - [Google 软件测试之道 笔记](https://github.com/nonocast/me/issues/28)
   - [如何开始做软件测试?](https://github.com/nonocast/me/issues/26)
 - [如何做单元测试?](https://github.com/nonocast/jiker-tdd-campus)
-- [C 语言基础](https://github.com/nonocast/me/issues/20)
+- [C 基础](https://github.com/nonocast/me/issues/20)
+- [Java 基础](https://github.com/nonocast/hello-java)
+  - [INTEROP (JNI)](https://github.com/nonocast/hello-java/blob/master/INTEROP.md)
+  - [Logging](https://github.com/nonocast/hello-java/blob/master/LOGGING.md)
+  - [Tcp Client](https://github.com/nonocast/hello-java/blob/master/SOCKET.md)
 
 #### Node
 
@@ -57,4 +61,3 @@
 ### 其他
 
 - [rmtp and hls in nginx](https://github.com/nonocast/me/issues/30)
-- [快速搭建Java开发环境](https://github.com/nonocast/hello-java)
