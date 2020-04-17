@@ -57,3 +57,4 @@
 ### 其他
 
 - [rmtp and hls in nginx](https://github.com/nonocast/me/issues/30)
+- [快速搭建Java开发环境](https://github.com/nonocast/hello-java)
