@@ -28,6 +28,7 @@
   - [如何开始做软件测试?](https://github.com/nonocast/me/issues/26)
 - [如何做单元测试?](https://github.com/nonocast/jiker-tdd-campus)
 - [C 基础](https://github.com/nonocast/me/issues/20)
+  - [nonocast/learn-c](https://github.com/nonocast/learn-c)
 - [Java 基础](https://github.com/nonocast/hello-java)
   - [INTEROP (JNI)](https://github.com/nonocast/hello-java/blob/master/INTEROP.md)
   - [Logging](https://github.com/nonocast/hello-java/blob/master/LOGGING.md)
