@@ -14,6 +14,7 @@
 
 - [什么是单点登录?](https://github.com/nonocast/me/issues/2)
 - [认证和授权有什么区别?](https://github.com/nonocast/me/issues/3)
+- [后台服务接口权限的设计](https://github.com/nonocast/me/issues/44)
 - [如何做项目管理?](https://github.com/nonocast/me/issues/13)
 - [如何使用配置?](https://github.com/nonocast/me/issues/14)
 - [如何写文档？](https://github.com/nonocast/me/issues/9)
