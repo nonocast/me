@@ -32,6 +32,7 @@
   - [nonocast/learn-c](https://github.com/nonocast/learn-c)
   - [C动态链接库](https://github.com/nonocast/me/issues/45)
 - [Java 基础](https://github.com/nonocast/hello-java)
+  - [JAVA通过JNI调用Native Layer](https://github.com/nonocast/me/issues/46)
   - [INTEROP (JNI)](https://github.com/nonocast/hello-java/blob/master/INTEROP.md)
   - [Logging](https://github.com/nonocast/hello-java/blob/master/LOGGING.md)
   - [Tcp Client](https://github.com/nonocast/hello-java/blob/master/SOCKET.md)
