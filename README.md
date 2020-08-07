@@ -21,6 +21,9 @@
 - [如何使用配置?](https://github.com/nonocast/me/issues/14)
 - [如何写文档？](https://github.com/nonocast/me/issues/9)
 - [怎么记录日志? -- Node Winston](https://github.com/nonocast/me/issues/10)
+- 怎么做好打包和部署工作? (非docker)
+  - [dpkg 及其仓库搭建](https://github.com/nonocast/me/issues/78)
+  - [Web程序打包和安装方式](https://github.com/nonocast/me/issues/77)
 - 怎么做好版本管理?
   - [git 内部是如何工作的?](https://github.com/nonocast/me/issues/7)
   - [通过 gitstats 查看项目统计](https://github.com/nonocast/me/issues/6)
@@ -29,6 +32,9 @@
   - [Google 软件测试之道 笔记](https://github.com/nonocast/me/issues/28)
   - [如何开始做软件测试?](https://github.com/nonocast/me/issues/26)
 - [如何做单元测试?](https://github.com/nonocast/jiker-tdd-campus)
+- Docker
+  - [Docker 入门](https://github.com/nonocast/me/issues/74)
+  - [Dockerizing nodejs/react application](https://github.com/nonocast/me/issues/76)
 - [串口编程 - 通过nodejs, java, C访问单片机](https://github.com/nonocast/mcs-serial-port)
 - [C 基础](https://github.com/nonocast/me/issues/20)
   - [nonocast/learn-c](https://github.com/nonocast/learn-c)
