@@ -74,3 +74,11 @@
 ### 其他
 
 - [rmtp and hls in nginx](https://github.com/nonocast/me/issues/30)
+
+## 博客推荐
+
+- [IT宅-arthinking's blog - IT宅-编程技术分享站](https://www.itzhai.com)
+
+## 文章推荐
+
+- 网络: [两万字长文50+张趣图带你领悟网络编程的内功心法 | IT宅-arthinking's blog](https://www.itzhai.com/articles/comprehend-the-underlying-principles-of-network-programming.html)
