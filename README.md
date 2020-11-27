@@ -48,9 +48,10 @@
 
 #### lang
 
-- [Swift语法](https://github.com/nonocast/me/issues/72)
+- [Swift 语法](https://github.com/nonocast/me/issues/72)
 - [Python 语法](https://github.com/nonocast/me/issues/140)
-- [Rust语法](https://github.com/nonocast/me/issues/139)
+- [Rust 语法](https://github.com/nonocast/me/issues/139)
+- Bash 语法
 
 #### Node
 
