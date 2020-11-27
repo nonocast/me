@@ -46,6 +46,12 @@
   - [Logging](https://github.com/nonocast/hello-java/blob/master/LOGGING.md)
   - [Tcp Client](https://github.com/nonocast/hello-java/blob/master/SOCKET.md)
 
+#### lang
+
+- [Swift语法](https://github.com/nonocast/me/issues/72)
+- [Python 语法](https://github.com/nonocast/me/issues/140)
+- [Rust语法](https://github.com/nonocast/me/issues/139)
+
 #### Node
 
 - [Webpack 学习](https://github.com/nonocast/me/issues/22)
