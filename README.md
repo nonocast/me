@@ -48,6 +48,8 @@
 
 #### lang
 
+![](https://github.com/nonocast/me/blob/master/images/langs.jpg?raw=true)
+
 - [Swift 语法](https://github.com/nonocast/me/issues/72)
 - [Python 语法](https://github.com/nonocast/me/issues/140)
 - [Rust 语法](https://github.com/nonocast/me/issues/139)
