@@ -80,6 +80,10 @@
 - [数学基础认识](https://github.com/nonocast/me/issues/18)
 - [线性代数入门](https://github.com/nonocast/me/issues/19)
 
+### 通用认知
+
+- [分析问题的一般方法](https://github.com/nonocast/me/issues/119)
+
 ### 其他
 
 - [rmtp and hls in nginx](https://github.com/nonocast/me/issues/30)
