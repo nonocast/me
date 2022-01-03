@@ -80,6 +80,11 @@
 - [数学基础认识](https://github.com/nonocast/me/issues/18)
 - [线性代数入门](https://github.com/nonocast/me/issues/19)
 
+深度学习涉及到的三个数学部分:
+1. 微积分
+2. 线性代数
+3. 概率
+
 ### 通用认知
 
 - [分析问题的一般方法](https://github.com/nonocast/me/issues/119)
